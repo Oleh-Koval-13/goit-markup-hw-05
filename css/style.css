@@ -554,9 +554,6 @@ margin-bottom: 16px;
     gap: 24px;
 }
 
-.subscribe-label {
-
-}
 .subscribe-input {
     color: var(--WHITE, #FFF);
     border-radius: 4px;
