@@ -577,6 +577,8 @@ padding: 8px 24px;
 justify-content: center;
 align-items: center;
 gap: 16px;
+border: none;
+cursor: pointer;
 border-radius: 4px;
 background: var(--IRIS, #4D5AE5);
 color: var(--WHITE, #FFF);
@@ -585,7 +587,11 @@ font-size: 16px;
 font-weight: 500;
 line-height: 1.5;
 letter-spacing: 0.04em;
-
+min-width: 165px;
+height: 40px;
+}
+.subscribe-icon {
+margin-left: 16px;
 }
 .text-modal {
 width: 360px;
